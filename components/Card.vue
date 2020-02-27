@@ -28,7 +28,7 @@ export default {
         triggerElement: '.animation-trigger1',
         triggerHook: 'onEnter',
         offset: 100,
-        duration: 30,
+        duration: 500,
         reverse: false
       })
       .setTween('.animation-target1', {
